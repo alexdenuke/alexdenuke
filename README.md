@@ -1,4 +1,7 @@
 <h1 align="center">Привет, я Алексей 👋</h1>
+<p align="center">
+  👨‍💻 Fullstack-разработчик | Next.js, NestJS, Docker | TypeScript, PostgreSQL, Prisma
+</p>
 <!--
 **alexdenuke/alexdenuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
