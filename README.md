@@ -1,5 +1,4 @@
-## Hi there 👋
-<h1>Привет</h1>
+<h1 align="center">Привет, я Алексей 👋</h1>
 <!--
 **alexdenuke/alexdenuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
