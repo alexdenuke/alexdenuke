@@ -27,7 +27,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alexdenuke&show_icons=true&theme=radical" alt="GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexdenuke&theme=radical&date=2025-05-09" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexdenuke&theme=radical&v=1" alt="GitHub streak"/>
 </p>
 
 ### 📫 Контакты
