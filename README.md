@@ -26,7 +26,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alexdenuke&show_icons=true&theme=radical" alt="GitHub stats" />
-<!--   <br /> -->
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexdenuke&layout=compact&theme=radical" />
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexdenuke&theme=radical&v=1" alt="GitHub streak"/> -->
 </div>
 
