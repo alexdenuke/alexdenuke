@@ -3,6 +3,8 @@
   👨‍💻 Fullstack-разработчик | Next.js, NestJS, Docker | TypeScript, PostgreSQL, Prisma
 </p>
 
+![photo](./img.jpg)
+
 ### 🧠 Обо мне
 
 - 🔭 Сейчас работаю над: **Магазин турецких сладостей**
@@ -32,8 +34,6 @@
 </div>
 
 ### 📫 Контакты
-
-![photo](./img.jpg)
 
 - 💬 Telegram:  @alexdenuke
 - 📧 Почта: alexdenuke@gmail.com
