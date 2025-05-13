@@ -33,6 +33,8 @@
 
 ### 📫 Контакты
 
+![photo](./img.jpg)
+
 - 💬 Telegram:  @alexdenuke
 - 📧 Почта: alexdenuke@gmail.com
 
